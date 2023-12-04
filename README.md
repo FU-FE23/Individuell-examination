@@ -20,7 +20,7 @@ Skiss hittar du [här][https://www.figma.com/file/oSYf4qkC8z04JUb7BNJ57C/Downloa
 - Att du använder dig av BEM namngivningskonvention genom hela din markup
 - Att du använder dig av animations någonstans på ditt projekt
 - Att din CSS och HTML är återanvändbar
-- Att du löser Contact us sektionen med formulär
+- Att du löser Contact us sektionen med formulär som inkluderar namn, mail, adress, mobilnummer och övrig information från användaren. Ingen funktionalitet behövs utan endast styling.
 
 ## Inlämning
 
